@@ -1,0 +1,11 @@
+[package]
+name = "tinygrad-rs"
+version = "0.0.1"
+edition = "2021"
+authors = ["Dimitar Rusev <mitikodev@gmail.com>"]
+description = "Tiny deep learning framework"
+repository = "https://github.com/mitiko/tinygrad-rs/"
+license = "MIT"
+keywords = ["deep learning"]
+
+[dependencies]
